@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="pagina2.css"/>
+    <title>Turismo no Recife</title>
+    <h1 style="color:rgb(218, 216, 213) ; font-size: 25px; font-family:Georgia, 'Times New Roman', Times, serif;">VISITE RECIFE</h1>
+<style>
+    body{
+        background: black;
+        color: white;
+        font: arial;
+        font-size: medium;
+        text-align: center;
+
+    }
+</style>
+<h2>
+    <br>
+    Viajar para Recife é garantia de sucesso: 
+    boa comida, diversas opções de hospedagem,
+     muitos programas culturais, praias lindas e um 
+     Carnaval cheio de alegria. O destino é um dos mais procurados no 
+    Nordeste e tem atrativos que encantam. Certamente, vale a visita!
+</h2>
+</head>
+<body>
+    <div class="conteiner ">
+        <div class="child"></div><img src="rua bom jesus.jpg" height="40%" width="30%" >
+        <div class="child"></div><img src="Brennand.jpg" height="30%" width="30%" >
+        <div class="child"></div><img src="paço.jpg" height="30%" width="30%">
+        <br><p></p>
+
+    </div>
+
+   <div class="button">
+    <br><p></p>
+    <button>Ler mais</button>
+           <br><p></p>
+   </div>
+        
+</body>
+<footer>
+    <p>DESENVOLVIDO POR: FELIPE EMILIANO 2022 </p>
+    <p> Email:emanoelfelipe19@hotmail.com.br</p>
+    <p>Visite a pagina: Pontos turiscos em Recife-PE.</p>
+    <p>Para voltar a pagina: Marco Zero Recife
+        <a href="index.html">clique Aqui</a>
+    </p>
+</footer>
+</html>
